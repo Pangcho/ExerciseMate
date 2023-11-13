@@ -1,0 +1,9 @@
+1. Pose_server-main 폴더로 진입해 app.py 실행
+
+2. Pose_server-main 폴더로 진입해 node app.js 실행
+
+3. Pose_client-main 폴더로 진입해 app.js 실행
+
+4. 운동메이트에 접속한 뒤 가입 후 선호하는 운동 선택 후 실시간 자세교정 서비스 
+
+5. 메이트에 가입해 메이트들과 운동 현황 공유

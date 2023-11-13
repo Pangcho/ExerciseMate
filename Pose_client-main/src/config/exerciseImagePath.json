@@ -1,0 +1,17 @@
+{
+  "squat": "exercise2/lower/squat.jpg",
+  "lunge": "exercise2/lower/lunge.jpg",
+  "deadLift": "exercise2/lower/deadLift.jpg",
+
+  "plank": "exercise2/abdominal/plank.jpg",
+  "crunch": "exercise2/abdominal/crunch.jpg",
+  "legRaise": "exercise2/abdominal/legRaise.jpg",
+  "sitUp": "exercise2/abdominal/sitUp.jpg",
+
+  "pushUp": "exercise2/arm/pushUp.jpg",
+  "shoulderPress": "exercise2/arm/shoulderPress.jpg",
+  "dumbbellRow": "exercise2/arm/dumbbellRow.jpg",
+  "hammerCurl": "exercise2/arm/hammerCurl.jp",
+  "side": "exercise2/arm/side.jpg",
+  "dumbbellCurl": "exercise2/arm/dumbbellCurl.jpg"
+}
